@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 - 🔭 I’m currently working on ... Android Apps
 - 🌱 I’m currently learning ...Web Dev
